@@ -21,8 +21,8 @@ Navigate the snake using the arrow keys, eat the food to grow, and avoid collisi
 Check out the live demo [here](https://yashwanth2000.github.io/snake-game/).
 
 ### Screenshots
+<img src="img/snakegame-screenshot.png" alt="Gameplay Screenshot" width="400">
 
-![Gameplay Screenshot](img/snakegame-screenshot.png)
 
 ### Installation
 Clone the repository and open the `index.html` file in your web browser to start playing.
